@@ -1,0 +1,5 @@
+MySQL:
+  Username: "root"
+  Password: ""
+  Database: "x_chaos"
+  Host: "localhost"
