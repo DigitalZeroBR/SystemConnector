@@ -1,5 +1,9 @@
-MySQL:
-  Username: "root"
-  Password: ""
-  Database: "x_chaos"
-  Host: "localhost"
+Databases:
+  Mysql:
+    Main:
+      Username: "root"
+      Password: ""
+      Database: "x_chaos"
+      Host: "localhost"
+  Sql:
+    - System
